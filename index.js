@@ -10,7 +10,7 @@ function hasTargetSum(array, target) {
   }
   return false
 }
-console.log(hasTargetSum ([22, 19, 4, 6, 30], 41))
+
 
 
 /* 
